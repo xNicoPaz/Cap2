@@ -1,0 +1,5 @@
+#Este directorio es para archivos temporales, por lo tanto todos los
+#archivos dentro de este directorio con la salvedad de este archivo 
+#(.gitignore) seran ignorados
+
+!.gitignore
