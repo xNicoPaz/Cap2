@@ -2,4 +2,6 @@
 #archivos dentro de este directorio con la salvedad de este archivo 
 #(.gitignore) seran ignorados
 
+*
+
 !.gitignore
